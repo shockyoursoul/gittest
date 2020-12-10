@@ -14,5 +14,6 @@ public class HelloGit {
     	  System.out.print("Hello Git");
     	  System.out.print("更新1");
     	  System.out.print("Branch01");
+    	  System.out.print("分支分歧");
       }
 }
