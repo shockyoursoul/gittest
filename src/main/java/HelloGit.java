@@ -13,5 +13,6 @@ public class HelloGit {
       public void heihei() {
     	  System.out.print("Hello Git");
     	  System.out.print("¸üÐÂ1");
+    	  System.out.print("Branch01");
       }
 }
