@@ -16,6 +16,6 @@ public class HelloGit {
     	  System.out.print("Branch01");
     	  System.out.print("主干分歧");
     	  System.out.print("分支分歧");
-            System.out.print("不更新了");
+          System.out.print("本地未pull前更新");
       }
 }
