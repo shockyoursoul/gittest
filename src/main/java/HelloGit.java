@@ -17,5 +17,5 @@ public class HelloGit {
     	  System.out.print("主干分歧");
     	  System.out.print("分支分歧");
           System.out.print("本地未pull前更新");
-      }
+        System.out.print("在更新更新了");}
 }
