@@ -5,16 +5,17 @@ package main.java;
 
 /**
  *@Description  
- *@author ÕÅ·å Email:3230340338@qq.com
+ *@author å¼ å³° Email:3230340338@qq.com
  *@version
- *@date2020Äê12ÔÂ11ÈÕÉÏÎç3:21:48
+ *@date2020å¹´12æœˆ11æ—¥ä¸Šåˆ3:21:48
  */
 public class HelloGit {
       public void heihei() {
     	  System.out.print("Hello Git");
-    	  System.out.print("¸üĞÂ1");
+    	  System.out.print("æ›´æ–°1");
     	  System.out.print("Branch01");
-    	  System.out.print("Ö÷¸É·ÖÆç");
-    	  System.out.print("·ÖÖ§·ÖÆç");
+    	  System.out.print("ä¸»å¹²åˆ†æ­§");
+    	  System.out.print("åˆ†æ”¯åˆ†æ­§");
+        System.out.print("ç½‘é¡µæ›´æ”¹");
       }
 }
